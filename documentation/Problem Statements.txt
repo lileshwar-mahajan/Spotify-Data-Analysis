@@ -1,0 +1,10 @@
+1.Who are the top artists by popularity and by followers?
+
+2.Is there a clear relationship between an artist's follower count and their "popularity" score?
+
+3.What are the characteristics of popular tracks? (e.g., is track popularity linked to duration? Is explicit
+content more popular?)
+
+4.How has artist and track popularity trended over time?
+
+5.What are the most popular genres?
