@@ -17,9 +17,9 @@ Understanding what makes artists and tracks successful on Spotify is crucial for
 - Album type performance metrics
 
 ## 📈 Dashboard Preview
-![Spotify Analysis Dashboard - Page 1](dashboard-page1.png)
-![Spotify Analysis Dashboard - Page 2](dashboard-page2.png)
-![Spotify Analysis Dashboard - Page 3](dashboard-page3.png)
+![Spotify Analysis Dashboard - Page 1](screenshots/dashboard-page1.png)
+![Spotify Analysis Dashboard - Page 2](screenshots/dashboard-page2.png)
+![Spotify Analysis Dashboard - Page 3](screenshots/dashboard-page3.png)
 
 ## 🔍 Key Business Questions Answered
 
